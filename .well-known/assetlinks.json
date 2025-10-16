@@ -8,5 +8,15 @@
         "B6:66:34:18:81:2E:57:01:A0:51:69:36:25:9C:56:E5:7C:31:D3:D6:87:94:AB:14:66:F2:74:8D:5D:F4:24:AB"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mx.dev.cmg.android.code",
+      "sha256_cert_fingerprints": [
+        "B6:66:34:18:81:2E:57:01:A0:51:69:36:25:9C:56:E5:7C:31:D3:D6:87:94:AB:14:66:F2:74:8D:5D:F4:24:AB"
+      ]
+    }
   }
 ]
